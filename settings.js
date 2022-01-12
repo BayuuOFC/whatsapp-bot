@@ -1,5 +1,5 @@
 module.exports = {
   prefix: "!",
-  owner: "YOUR NUMBER",
-  support: "YOUR GROUP ID",
+  owner: "6289525518325",
+  support: "https://chat.whatsapp.com/Gj0kHatV2AoFyL2WyTTv2o",
 };
